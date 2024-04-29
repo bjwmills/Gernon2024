@@ -1,7 +1,7 @@
 Modified model used in Gernon et al., 2024 - Nature Geoscience
 Original model from Alcott et al., 2019 - Science
 Coded by Lewis Alcott and Benjamin JW Mills // email lewis.alcott@bristol.ac.uk or b.mills@leeds.ac.uk
-The only modifications to this code fromt the original are the routine to test multiple phosphorus inputs events, and a new constant for testing different rates of vertical mixing.
+The only modifications to this code from the original are the routine to test multiple phosphorus inputs events, and a new constant for testing different rates of vertical mixing.
 
 Contents:
 Alcott_etal_2019_Science_front.m // Model frontend file // run this code to solve model and plot results // sets parameters and starting values, runs solver
